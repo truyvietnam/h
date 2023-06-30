@@ -5,18 +5,6 @@ VisualStudioVersion = 17.0.32002.185
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Client", "Client\PacketClient.vcxproj", "{499784D2-7EA3-4CBE-BD93-EC0DBBC42FCD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Injector", "Injector\Injector.csproj", "{68F2D7A5-F4AF-4BC2-B095-66F8E242FB86}"
-EndProject
-Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "assets", "assets", "{8D7AE9CB-15A7-41A5-A570-B2216FAA9163}"
-	ProjectSection(SolutionItems) = preProject
-		assets\images\background.png = assets\images\background.png
-		assets\images\banner.png = assets\images\banner.png
-		Injector\icon.ico = Injector\icon.ico
-		assets\images\logo.png = assets\images\logo.png
-	EndProjectSection
-EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bot", "Bot\Bot.csproj", "{E3FDF8FE-5730-4847-96B8-4843C5302366}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
