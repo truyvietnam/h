@@ -6,6 +6,10 @@ private:
 	bool viewBobbing = true;
 	bool damage = false;
 	bool boost = false;
+	int gameTick = 0;
+	float horizontalSpeed = 1.5f;
+	float verticalSpeed = 0.5;
+
 public:
 	float effectiveValue = 0.f;
 	float value = 0.f;
