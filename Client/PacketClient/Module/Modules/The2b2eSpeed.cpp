@@ -1,6 +1,6 @@
 #include "The2b2eSpeed.h"
 
-The2b2eSpeed::The2b2eSpeed() : IModule(0, Category::MOVEMENT, "Bypassed speed on 2b2e") {
+The2b2eSpeed::The2b2eSpeed() : IModule(0, Category::MOVEMENT, "Bypassed speed on 2b2e(test)") {
 }
 
 The2b2eSpeed::~The2b2eSpeed() {
